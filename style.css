@@ -1,0 +1,39 @@
+#checkBox {
+    float: left;
+}
+
+.container {
+    margin:100px;
+}
+
+.container h1 {
+    margin-left: 200px;
+}
+
+#addTodo {
+    width: 800px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.navbar-brand{
+    margin-left:40px;
+    color:gray !important;
+}
+
+.list-group-item {
+    width: 1000px;
+    height: 65px;
+    margin-left: 200px;
+    padding:20px !important;
+}
+
+#checkBox {
+    margin-right: 50px;
+}
+
+.trashIcon {
+    float:right;
+    color:red;
+}
+
